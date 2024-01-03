@@ -1,4 +1,3 @@
-import sys
 import base64
 import json
 from llama_cpp import Llama
