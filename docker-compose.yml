@@ -2,6 +2,7 @@ version: '3'
 
 services:
   llm-lambda:
+    image: llm-lambda
     build: .
     ports:
       - 9000:8080
