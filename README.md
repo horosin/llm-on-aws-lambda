@@ -7,8 +7,7 @@ This repository contains code and instructions for deploying a smaller open-sour
 The project involves deploying the Microsoft Phi-2 model, a 2.7 billion parameter LLM, on AWS Lambda using Docker. It demonstrates creating an HTTP REST endpoint through Lambda's URL mechanism to provide LLM outputs with execution details.
 
 ### Detailed Guide
-For a step-by-step tutorial, refer to the article: [How to deploy an LLM on AWS Lambda?](#add-article-link-here)
-
+For a step-by-step tutorial, refer to the article: [How to deploy an LLM on AWS Lambda?](https://horosin.com/deploy-a-language-model-llm-on-aws-lambda)
 ### Key Features
 - Utilizes the Phi-2 model from Microsoft.
 - Implements docker-based AWS Lambda functions.
